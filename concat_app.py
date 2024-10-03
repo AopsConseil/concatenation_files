@@ -389,7 +389,7 @@ def main_concat():
     MAPPINGS_FILE = os.path.join(current_dir, 'resources', 'mappings.json')
     page_ico = os.path.join(current_dir, 'resources', 'merge.png')
     logo = os.path.join(current_dir, 'resources', 'Logo_AOPS_conseil.png')
-    title = 'Outil de :orange[Contrôle] des Fichiers '
+    title = 'Outil de :orange[Concatenation] des Fichiers '
     
     st.set_page_config(layout="wide", page_title='Outil de concatenation', page_icon=page_ico)
     
